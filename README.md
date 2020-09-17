@@ -2,7 +2,7 @@
 
 ![LOGOS](./LOGOS/logos.png)
 
-## Free and Open Source Software aplicados ao planejamento e ao projeto
+## Free and Open Source Softwares aplicados ao planejamento e ao projeto
 
 ### Aula 02
 

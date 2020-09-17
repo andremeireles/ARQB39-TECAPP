@@ -16,7 +16,7 @@
 
   Um sistema de controle de versões descentralizado
 
-  [git history](https://www.welcometothejungle.com/en/articles/btc-history-git)
+  [histórico do git](https://www.welcometothejungle.com/en/articles/btc-history-git)
 
 2. Configurando o git
    

@@ -1,5 +1,7 @@
 # ARQB39-TECAPP
 
+![LOGOS](./LOGOS/logos.png)
+
 ## Free and Open Source Software aplicados ao planejamento e ao projeto
 
 ### Aula 02
@@ -9,4 +11,4 @@
   
   - [Visual Studio Code](https://code.visualstudio.com/)
   
-  - [inkscape](https://inkscape.org/pt-br/)
+  - [Inkscape](https://inkscape.org/pt-br/)

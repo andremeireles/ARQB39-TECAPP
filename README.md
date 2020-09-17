@@ -22,7 +22,7 @@ __________________________
 3. O que é o git?
 
     Um sistema de controle de versões descentralizado
-
+    <b/>
     [história do git](https://www.welcometothejungle.com/en/articles/btc-history-git)
 
 4. Configurando o git

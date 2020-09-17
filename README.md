@@ -3,22 +3,29 @@
 ![LOGOS](./LOGOS/logos.png)
 
 ## Free and Open Source Softwares aplicados ao planejamento e ao projeto
-
+__________________________
+__________________________
 ### Aula 02
-
+__________________________
 1. Softwares utilizados
-      - [git](https://git-scm.com/)
-     - [Visual Studio Code](https://code.visualstudio.com/)
+   <br/>
+  - [git](https://git-scm.com/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
   
-     - [Inkscape](https://inkscape.org/pt-br/)
+  - [Inkscape](https://inkscape.org/pt-br/)
+    <br/>
+2. Sobre licenças open source
+  <br/>
+      [Principais licenças open source](https://imasters.com.br/desenvolvimento/como-funcionam-as-licencas-open-source)
 
-1. O que é o git?
+  <br/>
+3. O que é o git?
 
-  Um sistema de controle de versões descentralizado
+    Um sistema de controle de versões descentralizado
 
-  [história do git](https://www.welcometothejungle.com/en/articles/btc-history-git)
+    [história do git](https://www.welcometothejungle.com/en/articles/btc-history-git)
 
-2. Configurando o git
+4. Configurando o git
    
   Configurando seu nome de usuário
 

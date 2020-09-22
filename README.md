@@ -7,25 +7,27 @@ __________________________
 __________________________
 ### Aula 02
 __________________________
-1. Softwares utilizados
+1. #### Softwares utilizados
    <br/>
-  - [git](https://git-scm.com/)
-  - [Visual Studio Code](https://code.visualstudio.com/)
+   - [git](https://git-scm.com/)
+   - [Visual Studio Code](https://code.visualstudio.com/)
+   - [Inkscape](https://inkscape.org/pt-br/)
   
-  - [Inkscape](https://inkscape.org/pt-br/)
     <br/>
-2. Sobre licenças open source
-  <br/>
+1. #### Sobre licenças open source
+      <br/>
       [Principais licenças open source](https://imasters.com.br/desenvolvimento/como-funcionam-as-licencas-open-source)
 
-  <br/>
-3. O que é o git?
+    <br/>
 
+1. #### O que é o git?
+   
+    <br/>
     Um sistema de controle de versões descentralizado
-    <b/>
-    [história do git](https://www.welcometothejungle.com/en/articles/btc-history-git)
 
-4. Configurando o git
+    [história do git](https://www.welcometothejungle.com/en/articles/btc-history-git)
+    <br/>
+1. #### Configurando o git
    
   Configurando seu nome de usuário
 

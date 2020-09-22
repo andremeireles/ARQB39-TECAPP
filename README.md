@@ -52,3 +52,10 @@ __________________________
   git config --list
 
   ```
+### Aula 03 - Blender - instalação e interface:
+
+1. [Site Oficial](https://www.blender.org)
+
+1. [Página de download](https://www.blender.org/download/)
+
+1. [Guia de interface](./blender/b_interface.md)

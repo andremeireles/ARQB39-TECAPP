@@ -125,8 +125,8 @@ _______________
 2. Local
 3. Normal
 4. Gimbal
-5. view
+5. View
 6. Cursor
-7. Adicionar outros
+7. A partir de um objeto (+)
 
 ________________

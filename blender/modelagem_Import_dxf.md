@@ -13,6 +13,11 @@ Duas estratégias de modelagem diferentes para importar e modelar a parit de arq
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/moE3NiDHbTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+__________________________________________________
+
 ## Vídeo do canal [egneva designs](https://www.youtube.com/channel/UCg6CFC-WT2_4KM63AUphoeg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o0k9kZwUhpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_____________________________________
+

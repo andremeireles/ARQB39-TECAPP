@@ -1,5 +1,15 @@
 # Introdução ao Blender
 
+## Vídeos de apresentação
+
+### Tour pelo Blender Studio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mf2uAJepT44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### entrevista com o fundador do Blender
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qJEWOTZnFeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Interface
 
 [Documentação](https://docs.blender.org/manual/en/2.83/interface/index.html#user-interface)
@@ -7,7 +17,7 @@
 ![interface](./figs/imgBlender/blenderInterface.jpg)
 
 1. Menu do programa (application menu)
-2. Abas (tabs)
+2. Workspaces
 3. Controles de cena e camadas de visibilidade (Scene and View Layer selection)
 4. Editores
 

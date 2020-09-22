@@ -93,7 +93,7 @@ Pontos pivots de transformação do Blender.
 
 ________________
 
-## Adções (add-ons)
+## Adições (add-ons)
 
 ![preferences](figs/imgBlender/preferences.jpg)
 

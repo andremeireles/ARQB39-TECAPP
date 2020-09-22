@@ -12,7 +12,7 @@
 
 ## Interface
 
-[Documentação](https://docs.blender.org/manual/en/2.83/interface/index.html#user-interface)
+[Documentação](https://docs.blender.org/manual/en/2.90/interface/index.html#user-interface)
 
 ![interface](./figs/imgBlender/blenderInterface.jpg)
 
@@ -26,7 +26,7 @@ Abas servem para trocar entre diferentes configurações de editores.
 ________________
 ## Editores
 
-[Documentação](https://docs.blender.org/manual/en/2.83/editors/index.html#editors)
+[Documentação](https://docs.blender.org/manual/en/2.90/editors/index.html#editors)
 
 ![Editores](./figs/imgBlender/blendeditors.jpg)
 
@@ -69,7 +69,7 @@ ________________
 
 ## Modos de Trabalho do Editor 3D Viewport
 
-Os modos de trabalho ([object modes](https://docs.blender.org/manual/en/2.83/editors/3dview/modes.html#object-modes) podem ser selecionados pela barra superior esquerda do editor 3d viewport.
+Os modos de trabalho ([object modes](https://docs.blender.org/manual/en/2.90/editors/3dview/modes.html#object-modes) podem ser selecionados pela barra superior esquerda do editor 3d viewport.
 
 ![modos](figs/imgBlender/modosobj.jpg)
 

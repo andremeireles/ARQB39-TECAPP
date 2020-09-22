@@ -14,7 +14,7 @@
 
 [Documentação](https://docs.blender.org/manual/en/2.90/interface/index.html#user-interface)
 
-![interface](./figs/imgBlender/blenderInterface.jpg)
+![interface](../figs/imgBlender/blenderInterface.jpg)
 
 1. Menu do programa (application menu)
 2. Workspaces
@@ -28,7 +28,7 @@ ________________
 
 [Documentação](https://docs.blender.org/manual/en/2.90/editors/index.html#editors)
 
-![Editores](./figs/imgBlender/blendeditors.jpg)
+![Editores](../figs/imgBlender/blendeditors.jpg)
 
 
   1. 3d viewport
@@ -47,21 +47,21 @@ Alguns editores possuem pequenas setas nos lados de duas áreas. Menus podem ser
 
 Abaixo Vemos a indicação das setas no editor 3d Viewport.
 
-![menus T e N](figs/imgBlender/menusTeN.jpg)
+![menus T e N](../figs/imgBlender/menusTeN.jpg)
 
 No Lado esquerdo, temos o painel de ferramentas (tools panel) que pode ser visto ou escondido teclando ``T``.
 
-![Menu T](figs/imgBlender/menuT.jpg)
+![Menu T](../figs/imgBlender/menuT.jpg)
 
 No lado direito temos o painel lateral (Sidebar panel), que pode ser mostrado ou recolhido também pela tecla ``N``(como muitos dos ajustes são numéricos, a equipe do Blender escolheu a tecla ``N`` como atalho para este painel)
 
-![Menu N](figs/imgBlender/menuN.jpg)
+![Menu N](../figs/imgBlender/menuN.jpg)
 
 É comum encontrar estes paineis referidos como ``T`` e ``N`` nos materiais de informação sobre o blender.
 
 Uma outra versão do painel T pode ser vista pressionando as teclas ``shift + space``. 
 
-![shift+space](figs/imgBlender/shifht_space.jpg)
+![shift+space](../figs/imgBlender/shifht_space.jpg)
 
 Uma tabela com botões aparece na posição do ponteiro do mouse, apresentando os mesmos botões do painel de ferramentas. 
 
@@ -71,7 +71,7 @@ ________________
 
 Os modos de trabalho ([object modes](https://docs.blender.org/manual/en/2.90/editors/3dview/modes.html#object-modes) podem ser selecionados pela barra superior esquerda do editor 3d viewport.
 
-![modos](figs/imgBlender/modosobj.jpg)
+![modos](../figs/imgBlender/modosobj.jpg)
 
 Selecione um dos objetos da cena e clique na seta do seletor de modos como na figura acima.
 
@@ -83,11 +83,11 @@ _______________
 
 ## Precisão (snaps & pivots)
 
-![snaps](figs/imgBlender/snaps.png)
+![snaps](../figs/imgBlender/snaps.png)
 
 Comandos de precisão do Blender.
 
-![pivots](figs/imgBlender/pivot.png)
+![pivots](../figs/imgBlender/pivot.png)
 
 Pontos pivots de transformação do Blender.
 
@@ -95,11 +95,11 @@ ________________
 
 ## Adições (add-ons)
 
-![preferences](figs/imgBlender/preferences.jpg)
+![preferences](../igs/imgBlender/preferences.jpg)
 
 Acima vemos uma das maneiras de se abrir o menu de preferências.
 
-![addons](figs/imgBlender/addons.jpg)
+![addons](../figs/imgBlender/addons.jpg)
 
 Na opção Add-ons podemos ver uma série de adições que já vem embarcadas no Blender e podemos instalar outras, baixadas da internet. Alguns são gratuitos e outros pagos.
 
@@ -119,7 +119,7 @@ _______________
 
 ## Sistemas de coordenadas
 
-![corrdenadas_belnder](figs/imgBlender/coordenadas_blender.jpg)
+![corrdenadas_belnder](../figs/imgBlender/coordenadas_blender.jpg)
 
 1. Global
 2. Local

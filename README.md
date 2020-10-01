@@ -82,6 +82,14 @@ __________________________
       2. knife(k)
 1. Modifiers - introdução
 
+1. Add ons sugeridos:
+   1. Embarcados:
+      1. Archimesh
+      2. Archipack
+      3. BlenrKit
+   2. Baixados:
+      1. [Cad Transformns](https://gumroad.com/l/nqvcs)
+      2. [JARCH-Vis](https://github.com/BlendingJake/JARCH-Vis)
 
 1. [Playlist introdução a modelagem](https://www.youtube.com/watch?v=kbHsXdrRIBY&list=PL-YgB1cUwWX3JWUeHtvQ2GPrm81XOYnox)
 

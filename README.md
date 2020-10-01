@@ -73,17 +73,17 @@ __________________________
    1. aplicando transformações (alt + a)
 2. 3 maneiras de copiar objetos(ctrl + d , alt + d e add -> Collenction instance).
 
-3. Modo de edição
+1. Modo de edição
    1. Alternar entre modo de edição e modo de objeto (tab)
    2. seleção de vértices(1), edges(2) e faces(3)
    3. Menus de contexto
    4. Comandos do menu T
       1. Extrude(e)
       2. knife(k)
-4. Modifiers - introdução
+1. Modifiers - introdução
 
 
-5. [Playlist introdução a modelagem](https://www.youtube.com/watch?v=kbHsXdrRIBY&list=PL-YgB1cUwWX3JWUeHtvQ2GPrm81XOYnox)
+1. [Playlist introdução a modelagem](https://www.youtube.com/watch?v=kbHsXdrRIBY&list=PL-YgB1cUwWX3JWUeHtvQ2GPrm81XOYnox)
 
 
 

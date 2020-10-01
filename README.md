@@ -65,7 +65,25 @@ __________________________
 
 ### Aula 04 - Blender - Modelagem básica:
 
-1. [Playlist introdução a modelagem](https://www.youtube.com/watch?v=kbHsXdrRIBY&list=PL-YgB1cUwWX3JWUeHtvQ2GPrm81XOYnox)
+1. Diferença entre modo de objeto e modo de edição
+
+1. inserindo objetos (shift + A)
+
+1. Transformações básicas mover(g), escala(s) e rotação(r)
+   1. aplicando transformações (alt + a)
+2. 3 maneiras de copiar objetos(ctrl + d , alt + d e add -> Collenction instance).
+
+3. Modo de edição
+   1. Alternar entre modo de edição e modo de objeto (tab)
+   2. seleção de vértices(1), edges(2) e faces(3)
+   3. Menus de contexto
+   4. Comandos do menu T
+      1. Extrude(e)
+      2. knife(k)
+4. Modifiers - introdução
+
+
+5. [Playlist introdução a modelagem](https://www.youtube.com/watch?v=kbHsXdrRIBY&list=PL-YgB1cUwWX3JWUeHtvQ2GPrm81XOYnox)
 
 
 

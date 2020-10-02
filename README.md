@@ -86,7 +86,7 @@ __________________________
    1. Embarcados:
       1. Archimesh
       2. Archipack
-      3. BlenrKit
+      3. BlenderKit
    2. Baixados:
       1. [Cad Transformns](https://gumroad.com/l/nqvcs)
       2. [JARCH-Vis](https://github.com/BlendingJake/JARCH-Vis)

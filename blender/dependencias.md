@@ -1,7 +1,13 @@
- # Instalando dependências do sverchok
+ # Instalando dependências do Sverchok
  
 
+```Python
+ ______ _    _ _______  ______ _______ _     _  _____  _     _
+/______  \  /  |______ |_____/ |       |_____| |     | |____/
+______/   \/   |______ |    \_ |_____  |     | |_____| |    \_
+initialized.
 
+```
 ## Instalar o Pip
 
 Encontrar a pasta python no Blender:

@@ -1,6 +1,6 @@
 # Modelando a partir de arquivo dxf
 
-Duas estratégias de modelagem diferentes para importar e modelar a parit de arquivos dxf.
+Técnicas de modelagem a partir de plantas
 
 
 ## Vídeo do canal [GL.3D](https://www.youtube.com/channel/UCDMs6qQbvvKnXOLKW937Kaw/featured)
@@ -12,14 +12,11 @@ _____________________________________
 
 ### Como importar dxf no blender
 
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ihkx31WLWWA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Modelando a partir da planta
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/moE3NiDHbTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __________________________________________________
 

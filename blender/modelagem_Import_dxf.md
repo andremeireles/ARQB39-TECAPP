@@ -21,3 +21,9 @@ __________________________________________________
 
 _____________________________________
 
+## Vídeo do canal [GL.3D](https://www.youtube.com/channel/UCDMs6qQbvvKnXOLKW937Kaw/featured)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dXlw8eDFNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_____________________________________
+

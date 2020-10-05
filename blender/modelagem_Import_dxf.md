@@ -2,14 +2,12 @@
 
 Duas estratégias de modelagem diferentes para importar e modelar a parit de arquivos dxf.
 
-_____________________________________
 
 ## Vídeo do canal [GL.3D](https://www.youtube.com/channel/UCDMs6qQbvvKnXOLKW937Kaw/featured)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dXlw8eDFNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0k9kZwUhpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _____________________________________
-
 
 ## Vídeos do canal [Blender para Arquitetura](https://www.youtube.com/channel/UCxCWwDzdB1wglal6auDz96A)
 
@@ -29,5 +27,6 @@ __________________________________________________
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o0k9kZwUhpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _____________________________________
+
 
 

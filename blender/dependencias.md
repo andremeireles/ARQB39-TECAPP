@@ -8,49 +8,15 @@ ______/   \/   |______ |    \_ |_____  |     | |_____| |    \_
 initialized.
 
 ```
-## Instalar o Pip
+## Habilitar o pip
 
-### Toda vez que se instala uma nova versão do Blender, é preciso habilitar o pip
+Caso o pip não esteja habilitado para sua versão do Blender siga as [instruções de habilitação](./habilitar_o_pip.md)
 
-#### O pip é um sistema de instalação de pacotes do python via linha de comando. Para instalar o pip, siga as instruções abaixo:
-
-Encontrar a pasta python no Blender:
-1. Vá para o workspace script 
-1. No editor *python console* digite (ou copie e cole):
-
-```Python
-import sys
-sys.exec_prefix
-```
-O console ira imprimir o caminho para a pasta onde ficam os arquivos do ambiente Python da sua instalação do Blender.
+1. Vá para o console do Python do Blender
 
 ![py_console](../figs/imgBlender/blender_py_console.jpg)
 
-![py_path](../figs/imgBlender/blender_py_path.jpg)
-1. Copie o endereço (ctrl + c)
-
-1. Abra o Windows Power Shell (como administrador).
-
-![pwr_01](../figs/imgBlender/powershell_ADM_01.jpg)
-###### Uma das maneiras de se abrir o **Powershell** como administrador é :  1. No menu iniciar, clicar no ícone do **Powershell** com o botão direito do mouse 2. Clicar na opção **mais** 3. Clicar na opção **Executar como Administrador**.
-
-1. No PowerShell, digite cd e cole o endereço copiado (ctrl + v).
-
-
-```shell
-cd "C:/Program Files/Blender Foundation/Blender/2.80/python/"
-```
-
-![pw_cd_py_path](../figs/imgBlender/pw_cd_py_path.png)
-
-1. Para habilitar o pip, copie e cole as linhas de comando abaixo. 
-
-```shell
-.\bin\python -m ensurepip
-.\bin\python -m pip install --upgrade pip setuptools wheel
-```
-
-1. Volte para O console do Python do Blender e digite:
+1. digite as linhas de comando abaixo:
 
 ```Python
 import site
@@ -80,15 +46,17 @@ No entanto, é possível encontrar uma versão do **FreeCAD** compilada para o P
 
 Baixe a versão conda-0.18.3.7z (recomenda-se o programa [7zip](https://www.7-zip.org/download.html) para extrair o conteúdo do arquivo)
 
-Baixe e extraia o conteúdo para uma pasta com endereço conhecido (e.g. c:\fc37\...)
+Baixe e extraia o conteúdo para uma pasta com caminho conhecido. Aconselha-se caminhos próximos da raiz do disco (e.g. c:\freecad37\...)
 
 Procure o endereço da pasta **bin** dentro das pastas descompactadas.
+
+![pasta bin](../figs/imgBlender/pasta_bin_freecad.jpg)
 
 Execute o Blender como administrador.
 
 ![Blender_ADM](../figs/imgBlender/blender_adm.jpg)
 
-###### Uma das maneiras de se abrir o **Blender** como administrador é : 1. No menu iniciar, clicar no ícone do **Blender** com o botão direito do mouse 2. Clicar na opção **mais** 3. Clicar na opção **Executar como Administrador**.
+###### Uma das maneiras de se abrir o **Blender** como administrador é : **1** No menu iniciar, clicar no ícone do **Blender** com o botão direito do mouse. **2** Clicar na opção **mais**. **3** Clicar na opção **Executar como Administrador**.
 
 No menu Edit->Preferences vá para a opção Add-ons e procure o Sverchok (basta digitar **sv** no campo de pesquisa)
 

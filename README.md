@@ -99,4 +99,4 @@ __________________________
 #### Instalando dependências do [Sverchok](blender/dependencias.md)
 
 #### [Editando Scripts](./blender/scripts/index.md)
-1. [Archimesh](./blender/scripts/archimesh-script.md)
+1. [Archimesh](./blender/scripts/archimesh.md)

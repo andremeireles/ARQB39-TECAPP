@@ -69,3 +69,9 @@ Em seguida preencha a caixa de diálogo conforme indicado.
 ![cash_2](../figs/imgBlender/BlenderGisCRS_2.jpg)
 
 Para configurar qualquer outro sistema de coordenadas, pasta pesquisar o nome e o EPSG na internet e repetir as operações descritas acima.
+
+## Vídeo com instruções de instalação e uso:
+
+### Canal [Nick16](https://www.youtube.com/channel/UCIldsycnma5sHR1VRP38vhg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YNtKnmRXVlo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

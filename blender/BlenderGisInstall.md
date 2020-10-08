@@ -74,6 +74,8 @@ Para configurar qualquer outro sistema de coordenadas, pasta pesquisar o nome e 
 
 ## Vídeo com instruções de instalação e uso:
 
+__________________________________
 ### Canal [Nicko16](https://www.youtube.com/channel/UCIldsycnma5sHR1VRP38vhg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YNtKnmRXVlo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+__________________________________

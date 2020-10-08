@@ -97,3 +97,6 @@ __________________________
 #### Configurando [BelnderGis](./blender/BlenderGisInstall.md)
 
 #### Instalando dependências do [Sverchok](blender/dependencias.md)
+
+#### [Editando Scripts](./blender/scripts/index.md)
+1. [Archimesh](./blender/scripts/archimesh-script.md)

@@ -2,10 +2,7 @@
 
 ## Baixando o add-on
 
-Pode ser baixado no site do [Blender Bim](https://blenderbim.org/download.html)
-
-
-Ou no repositório do Github do [BlenderGis](https://github.com/domlysz/BlenderGIS)
+Acesse o repositório do Github do [BlenderGis](https://github.com/domlysz/BlenderGIS)
 
 ![github_BenderGis](../figs/imgBlender/BlenderGisGitHub.jpg)
 

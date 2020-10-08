@@ -95,3 +95,5 @@ __________________________
 
 
 #### Instalando dependências do [Sverchok](blender/dependencias.md)
+
+#### Configurando [BelnderGis](./blender/BlenderGisInstall.md)

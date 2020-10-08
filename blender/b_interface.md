@@ -95,7 +95,7 @@ ________________
 
 ## Adições (add-ons)
 
-![preferences](../igs/imgBlender/preferences.jpg)
+![preferences](../figs/imgBlender/preferences.jpg)
 
 Acima vemos uma das maneiras de se abrir o menu de preferências.
 

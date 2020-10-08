@@ -64,7 +64,13 @@ Na seção **spatial reference systems** das configurações do BlenderGis, cliq
 
 ![cash_2](../figs/imgBlender/BlenderGisCRS.jpg)
 
-Em seguida preencha a caixa de diálogo conforme indicado.
+Em seguida preencha a caixa de diálogo conforme indicado. 
+
+```
+EPSG:4674
+SIRGAS 2000
+```
+
 
 ![cash_2](../figs/imgBlender/BlenderGisCRS_2.jpg)
 

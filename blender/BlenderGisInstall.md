@@ -66,13 +66,12 @@ Na seção **spatial reference systems** das configurações do BlenderGis, cliq
 
 Em seguida preencha a caixa de diálogo conforme indicado. 
 
+![cash_2](../figs/imgBlender/BlenderGisCRS_2.jpg)
+
 ```
 EPSG:4674
 SIRGAS 2000
 ```
-
-
-![cash_2](../figs/imgBlender/BlenderGisCRS_2.jpg)
 
 Para configurar qualquer outro sistema de coordenadas, pasta pesquisar o nome e o EPSG na internet e repetir as operações descritas acima.
 

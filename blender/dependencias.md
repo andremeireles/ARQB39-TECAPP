@@ -38,6 +38,8 @@ site.getsitepackages()
 
 ## Dependência do FreeCAD
 
+#### Pode acontecer uma incompatibilidade entre a dependência do FreeCAD no Sverchok e o Plug-in Blender Bim. Caso deseje usar o Sverchok e o Blender Bim, talvez seja melhor não instalar esta dependência.
+
 O **Freecad** é usado pelo **Sverchok** para a criação e manipulação de Sólidos. Atualmente o **Blender** utiliza o Python na versão 3.7.X. O **FreeCAD** 0.18 Utiliza a versão 3.6.x e o **FreeCAD** 0.19 (ainda não lançado oficialmente), utiliza a versão 3.8.x.
 
 No entanto, é possível encontrar uma versão do **FreeCAD** compilada para o Python 3.7.x no endereço abaixo:
@@ -64,7 +66,7 @@ Abra as opções do Add-on Sverchok e procure a opção **extra nodes**
 
 ![sv_fc_01](../figs/imgBlender/sv_fc_01.jpg)
 
-Na opção **FreeCAD Package** copie o endereço da pasta **bin** da versão descompactada e aperte o botão **RSeset Path**
+Na opção **FreeCAD Package** copie o endereço da pasta **bin** da versão descompactada e aperte o botão **Reset Path**
 
 ![sv-fc_02_a](../figs/imgBlender/sv_fc_02_a.jpg)
 

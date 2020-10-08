@@ -30,7 +30,13 @@ Ative a **checkbox** ao lado da seta para instalar o Add-on.
 Dependendo da complexidade do Add-on a instalação pode ser muita rápida ou demorar um pouco. Aguarde. O Blender esta descompactando o arquivo .zip e copiando o conteúdo para a pasta de Add-ons da sua instalação. No caso do Windows 10, esta pasta fica no caminho:
 
 ```
-C:\Users\<seunode de usuário>\AppData\Roaming\Blender Foundation\Blender\<número da versão do Blender instalada e.g. \2.90\>\scripts\addons
+C:\Users\<seu nome de usuário do windows>\AppData\Roaming\Blender Foundation\Blender\<número da versão do Blender instalada e.g. \2.90\>\scripts\addons
+```
+
+Que também pode ser acessado digitando a lina abaixo na barra de endereço do **Explorador de Arquivos** do Windows (apenas mudando o número da versão do Blender):
+
+```
+%AppData%\Blender Foundation\Blender\2.90\scripts\addons
 ```
 
 No fim desta execução, a **checkbox** aparecerá marcada e a instalação concluída. Alguns Add-ons, contudo, exigem configurações adicionais que aparecerão nesta mesma tela, assim que a **checkbox** aparecer como marcada.

@@ -60,8 +60,7 @@ __________________________
 
 1. [Guia de interface](./blender/b_interface.md)
 
-
-3. [Trabalhando com formatos DXF](blender/modelagem_Import_dxf.md)
+1. [Trabalhando com formatos DXF](blender/modelagem_Import_dxf.md)
 
 ### Aula 04 - Blender - Modelagem básica:
 
@@ -97,6 +96,10 @@ __________________________
 #### Configurando [BelnderGis](./blender/BlenderGisInstall.md)
 
 #### Instalando dependências do [Sverchok](blender/dependencias.md)
+
+### Dicas de Blender
+
+[dicas de modelagem](https://www.youtube.com/watch?v=0Q7DUfxwcpM&t=169s)
 
 #### [Editando Scripts](./blender/scripts/index.md)
 1. [Archimesh](./blender/scripts/archimesh.md)

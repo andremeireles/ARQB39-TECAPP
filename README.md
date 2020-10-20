@@ -97,10 +97,9 @@ __________________________
 
 #### Instalando dependências do [Sverchok](blender/dependencias.md)
 
-
 ### Dicas de Blender
 
 [dicas de modelagem](https://www.youtube.com/watch?v=0Q7DUfxwcpM&t=169s)
 
-
-
+#### [Editando Scripts](./blender/scripts/index.md)
+1. [Archimesh](./blender/scripts/archimesh.md)

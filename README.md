@@ -93,7 +93,9 @@ __________________________
 1. [Playlist introdução a modelagem](https://www.youtube.com/watch?v=kbHsXdrRIBY&list=PL-YgB1cUwWX3JWUeHtvQ2GPrm81XOYnox)
 
 
-#### Configurando [BelnderGis](./blender/BlenderGisInstall.md)
+#### BelnderGis
+
+[Instalação e modelagem de terrenos](./blender/BlenderGisInstall.md)
 
 #### Instalando dependências do [Sverchok](blender/dependencias.md)
 

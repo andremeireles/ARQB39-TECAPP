@@ -95,7 +95,11 @@ __________________________
 
 #### BelnderGis
 
-[Instalação e modelagem de terrenos](./blender/BlenderGisInstall.md)
+[Instalação e configuração](./blender/BlenderGisInstall.md)
+
+[Modelagem de terrenos a partir de arquivos dxf](./blender/blenderGis_dxf.md)
+
+
 
 #### Instalando dependências do [Sverchok](blender/dependencias.md)
 

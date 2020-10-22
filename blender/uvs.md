@@ -2,7 +2,7 @@
 
 ## Meshes e materiais
 
-1. mesh com um material
+1. Mesh com um material
 2. Mesh com multiplos materiais
 
 ## Mapas de UV

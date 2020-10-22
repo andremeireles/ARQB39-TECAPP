@@ -109,3 +109,8 @@ __________________________
 
 #### [Editando Scripts](./blender/scripts/index.md)
 1. [Archimesh](./blender/scripts/archimesh.md)
+
+
+#### UV Maps e Texturas
+
+1. [UVs e texturas](./blender/uvs.md)

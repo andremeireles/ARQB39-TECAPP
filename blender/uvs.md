@@ -15,6 +15,12 @@
 
 [exemplos de texturas](../exemplos/brick_4_1k_jpg.zip)
 
+## World
+
+### Sky texture
+
+![sky textures](https://dev-files.blender.org/file/data/s644k3cpkcsm527hjtkf/PHID-FILE-ez5kek5o4autbyplydcd/02._1024.PNG.jpg)
+
 ## configurações de câmera
 
 ## render

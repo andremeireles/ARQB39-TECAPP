@@ -26,3 +26,5 @@
 ## Configurações de câmera
 
 ## Render
+
+[ARQUIVO TEXTURAS](../blender/EXEMPLO_TEXTURAS.blend)

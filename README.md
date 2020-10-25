@@ -93,7 +93,13 @@ __________________________
 1. [Playlist introdução a modelagem](https://www.youtube.com/watch?v=kbHsXdrRIBY&list=PL-YgB1cUwWX3JWUeHtvQ2GPrm81XOYnox)
 
 
-#### Configurando [BelnderGis](./blender/BlenderGisInstall.md)
+#### BelnderGis
+
+[Instalação e configuração](./blender/BlenderGisInstall.md)
+
+[Modelagem de terrenos a partir de arquivos dxf](./blender/blenderGis_dxf.md)
+
+
 
 #### Instalando dependências do [Sverchok](blender/dependencias.md)
 
@@ -103,3 +109,8 @@ __________________________
 
 #### [Editando Scripts](./blender/scripts/index.md)
 1. [Archimesh](./blender/scripts/archimesh.md)
+
+
+#### UV Maps e Texturas
+
+1. [UVs e texturas](./blender/uvs.md)

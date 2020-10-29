@@ -27,7 +27,9 @@
 
 1. [GeoTiff](https://pt.wikipedia.org/wiki/GeoTIFF)
 
+### Tabelas
 
+[exemplo de tabela](./estimativa_dou_2019.xls)
 
 ## Elementos dos arquivos
 

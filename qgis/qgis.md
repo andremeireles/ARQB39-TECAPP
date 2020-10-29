@@ -1,23 +1,38 @@
 # QGis básico
 
-## Exemplos de shapefile
-
-[shape Salvador](./Edificacoes_UFBA.zip)
-
-[shape_rms](./BaseSSA.zip)
-
 ## Interface
 
-## Tipos de Arquivos
+![qgis_interface_01](./qgis_inter_01.png)
 
-### Camadas
+## Formatos de arquivos
 
-#### Raster
+### Vetoriais
+1. [Shapefiles](https://pt.wikipedia.org/wiki/Shapefile)
+   - Exemplos de shapefile
 
-#### Vector
+        [shape UFBA](./Edificacoes_UFBA.zip)
+
+        [shape_RMS](./BaseSSA.zip)
+
+1. [Geopackages](https://www.geopackage.org/)
+   
+   - Exemplo de Geopackage
+
+2. [Geojson](https://geojson.org/)
+   
+   - Exemplo de GeoJson
+        [Municípios da Bahia](https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-29-mun.json)
+
+### Raster
+
+1. [GeoTiff](https://pt.wikipedia.org/wiki/GeoTIFF)
+
+
+
+## Elementos dos arquivos
 
 ### Geometria
 
 ### Tabela de Atributos
 
-#### Tipos de 
+#### Tipos de dados dos atributos

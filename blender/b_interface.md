@@ -107,13 +107,13 @@ Na opção Add-ons podemos ver uma série de adições que já vem embarcadas no
 
   1. [CAD transformations](https://github.com/s-leger/blender_cad_transforms)
   1. [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus)
-  1. [Sverchok](https://github.com/nortikin/sverchok/)
-  1. [Sorcar](https://github.com/aachman98/Sorcar)
-  1. [Blender Gis](https://github.com/domlysz/BlenderGIS)
-  1. [Blender Bim](https://blenderbim.org/)
-  1. [Point Cloud vizualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280)
+  2. [Sverchok](https://github.com/nortikin/sverchok/)
+  3. [Sorcar](https://github.com/aachman98/Sorcar)
+  4. [Blender Gis](https://github.com/domlysz/BlenderGIS)
+  5. [Blender Bim](https://blenderbim.org/)
+  6. [Point Cloud vizualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280)
   1. [QBlocker](https://blender-addons.org/qblocker-addon/)
-  1. [Jmesh](https://github.com/jayanam/jmesh-tools)
+  2. [Jmesh](https://github.com/jayanam/jmesh-tools)
 
 
 

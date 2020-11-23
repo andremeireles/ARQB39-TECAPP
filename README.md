@@ -114,3 +114,8 @@ __________________________
 #### UV Maps e Texturas
 
 1. [UVs e texturas](./blender/uvs.md)
+
+
+### Qgis
+
+1. [Introdução](./qgis/qgis.md)

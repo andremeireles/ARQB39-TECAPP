@@ -116,6 +116,20 @@ __________________________
 1. [UVs e texturas](./blender/uvs.md)
 
 
+#### Pastas de Instalação
+
+1. Instalação
+
+   ```
+   %ProgramFiles%\Blender Foundation\
+   ```
+1. Configuração
+
+   ```
+   %APPDATA%\Blender Foundation\Blender
+   ```
+
 ### Qgis
 
 1. [Introdução](./qgis/qgis.md)
+

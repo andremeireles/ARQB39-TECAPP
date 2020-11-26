@@ -70,7 +70,7 @@ __________________________
 
 1. Transformações básicas mover(g), escala(s) e rotação(r)
    1. aplicando transformações (alt + a)
-2. 3 maneiras de copiar objetos(ctrl + d , alt + d e add -> Collenction instance).
+2. 3 maneiras de copiar objetos(shift + d , alt + d e add -> Collenction instance).
 
 1. Modo de edição
    1. Alternar entre modo de edição e modo de objeto (tab)
@@ -116,6 +116,20 @@ __________________________
 1. [UVs e texturas](./blender/uvs.md)
 
 
+#### Pastas de Instalação
+
+1. Instalação
+
+   ```
+   %ProgramFiles%\Blender Foundation\
+   ```
+1. Configuração
+
+   ```
+   %APPDATA%\Blender Foundation\Blender
+   ```
+
 ### Qgis
 
 1. [Introdução](./qgis/qgis.md)
+
